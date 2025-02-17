@@ -1,3 +1,8 @@
+## Initailize the conda in your Termnial
+```pwsh
+    conda init
+```
+Then restart your Terminal (if it didn't work, try restart your computer!)
 ## Create a conda's environment
 ```pwsh
     conda create --name your_environment_name python=3.8
