@@ -31,3 +31,8 @@ Using `pip`:
 ```text
     pip install -r reqs.txt
 ```
+## To push into repo
+```pwsh
+    git add -A; git commit -m 'init'; git push
+```
+`'init'` is your commit message.
