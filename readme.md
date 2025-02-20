@@ -49,3 +49,28 @@ Using `pip`:
 
 ## An image
 ![img](./img.jpg)
+
+## Add all file to be commited
+```bash
+    git add -A
+```
+
+    anyway, this is code
+
+## Commit w/o open editer
+```pwsh
+    git commit -m "changes"
+```
+`"changes"` is your commit **message**.
+
+## Commit with default editor (usually: vim)
+
+    git commit
+
+## Push into a branch
+
+    git push -u _origin master
+
+With 
++ `_origin` is a remote, can be added via `git remote add _origin <url>`
++ `master` your branch
