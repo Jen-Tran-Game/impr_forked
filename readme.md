@@ -35,4 +35,17 @@ Using `pip`:
 ```pwsh
     git add -A; git commit -m 'init'; git push
 ```
-`'init'` is your commit message.
+`'init'` is your commit **message**.
+
+## This is a table
+
+| Col 1 | Col 2 |  Col 3 |
+| :---  | :--:  |   ---: |
+| row 1 / cell 0 | row 1 / cell 1 | row 1 / cell 2 |
+| row 2 / cell 2 | row 2 / cell 3 | row 2 / cell 3 |
+
+## A link to hypertext 
+[link](url)
+
+## An image
+![img](./img.jpg)
